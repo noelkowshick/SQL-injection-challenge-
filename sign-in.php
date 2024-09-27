@@ -18,7 +18,6 @@ include 'log-in.php';
     <div class="button">
     
     <button class="Home"><a href="index.php">Home</a></button>
-    <!--<button class="Account"><a href="">Account</a></button>-->
     </div>
 
 </header>
